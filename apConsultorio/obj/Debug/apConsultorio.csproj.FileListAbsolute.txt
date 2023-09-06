@@ -50,3 +50,17 @@ C:\Users\u22533\Desktop\Prof consultorio\apConsultorio\obj\Debug\apConsultorio.c
 C:\Users\u22533\Desktop\Prof consultorio\apConsultorio\obj\Debug\apConsultorio.csproj.CoreCompileInputs.cache
 C:\Users\u22533\Desktop\Prof consultorio\apConsultorio\obj\Debug\apConsultorio.exe
 C:\Users\u22533\Desktop\Prof consultorio\apConsultorio\obj\Debug\apConsultorio.pdb
+E:\Usuario\Área de Trabalho\Consultorio Beatriz\Consultorio-Beatriz\apConsultorio\bin\Debug\apConsultorio.exe.config
+E:\Usuario\Área de Trabalho\Consultorio Beatriz\Consultorio-Beatriz\apConsultorio\bin\Debug\apConsultorio.exe
+E:\Usuario\Área de Trabalho\Consultorio Beatriz\Consultorio-Beatriz\apConsultorio\bin\Debug\apConsultorio.pdb
+E:\Usuario\Área de Trabalho\Consultorio Beatriz\Consultorio-Beatriz\apConsultorio\obj\Debug\apConsultorio.csproj.AssemblyReference.cache
+E:\Usuario\Área de Trabalho\Consultorio Beatriz\Consultorio-Beatriz\apConsultorio\obj\Debug\apConsultorio.csproj.SuggestedBindingRedirects.cache
+E:\Usuario\Área de Trabalho\Consultorio Beatriz\Consultorio-Beatriz\apConsultorio\obj\Debug\apConsultorio.FrmConsultas.resources
+E:\Usuario\Área de Trabalho\Consultorio Beatriz\Consultorio-Beatriz\apConsultorio\obj\Debug\apConsultorio.FrmMedico.resources
+E:\Usuario\Área de Trabalho\Consultorio Beatriz\Consultorio-Beatriz\apConsultorio\obj\Debug\apConsultorio.FrmPacientes.resources
+E:\Usuario\Área de Trabalho\Consultorio Beatriz\Consultorio-Beatriz\apConsultorio\obj\Debug\apConsultorio.FrmPrincipal.resources
+E:\Usuario\Área de Trabalho\Consultorio Beatriz\Consultorio-Beatriz\apConsultorio\obj\Debug\apConsultorio.Properties.Resources.resources
+E:\Usuario\Área de Trabalho\Consultorio Beatriz\Consultorio-Beatriz\apConsultorio\obj\Debug\apConsultorio.csproj.GenerateResource.cache
+E:\Usuario\Área de Trabalho\Consultorio Beatriz\Consultorio-Beatriz\apConsultorio\obj\Debug\apConsultorio.csproj.CoreCompileInputs.cache
+E:\Usuario\Área de Trabalho\Consultorio Beatriz\Consultorio-Beatriz\apConsultorio\obj\Debug\apConsultorio.exe
+E:\Usuario\Área de Trabalho\Consultorio Beatriz\Consultorio-Beatriz\apConsultorio\obj\Debug\apConsultorio.pdb

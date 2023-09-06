@@ -1,0 +1,52 @@
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\consultorio\apConsultorio\bin\Debug\apConsultorio.exe.config
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\consultorio\apConsultorio\bin\Debug\apConsultorio.exe
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\consultorio\apConsultorio\bin\Debug\apConsultorio.pdb
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\consultorio\apConsultorio\obj\Debug\apConsultorio.csproj.AssemblyReference.cache
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\consultorio\apConsultorio\obj\Debug\apConsultorio.csproj.SuggestedBindingRedirects.cache
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\consultorio\apConsultorio\obj\Debug\apConsultorio.Properties.Resources.resources
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\consultorio\apConsultorio\obj\Debug\apConsultorio.csproj.GenerateResource.cache
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\consultorio\apConsultorio\obj\Debug\apConsultorio.csproj.CoreCompileInputs.cache
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\consultorio\apConsultorio\obj\Debug\apConsultorio.exe
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\consultorio\apConsultorio\obj\Debug\apConsultorio.pdb
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\consultorio\apConsultorio\obj\Debug\apConsultorio.FrmPrincipal.resources
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\consultorio\apConsultorio\obj\Debug\apConsultorio.FrmMedico.resources
+C:\Users\chico\Documents\apConsultorio\bin\Debug\apConsultorio.exe.config
+C:\Users\chico\Documents\apConsultorio\bin\Debug\apConsultorio.exe
+C:\Users\chico\Documents\apConsultorio\bin\Debug\apConsultorio.pdb
+C:\Users\chico\Documents\apConsultorio\obj\Debug\apConsultorio.csproj.AssemblyReference.cache
+C:\Users\chico\Documents\apConsultorio\obj\Debug\apConsultorio.csproj.SuggestedBindingRedirects.cache
+C:\Users\chico\Documents\apConsultorio\obj\Debug\apConsultorio.FrmMedico.resources
+C:\Users\chico\Documents\apConsultorio\obj\Debug\apConsultorio.FrmPrincipal.resources
+C:\Users\chico\Documents\apConsultorio\obj\Debug\apConsultorio.Properties.Resources.resources
+C:\Users\chico\Documents\apConsultorio\obj\Debug\apConsultorio.csproj.GenerateResource.cache
+C:\Users\chico\Documents\apConsultorio\obj\Debug\apConsultorio.csproj.CoreCompileInputs.cache
+C:\Users\chico\Documents\apConsultorio\obj\Debug\apConsultorio.exe
+C:\Users\chico\Documents\apConsultorio\obj\Debug\apConsultorio.pdb
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\apConsultorio\bin\Debug\apConsultorio.exe.config
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\apConsultorio\bin\Debug\apConsultorio.exe
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\apConsultorio\bin\Debug\apConsultorio.pdb
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\apConsultorio\obj\Debug\apConsultorio.csproj.AssemblyReference.cache
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\apConsultorio\obj\Debug\apConsultorio.csproj.SuggestedBindingRedirects.cache
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\apConsultorio\obj\Debug\apConsultorio.FrmMedico.resources
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\apConsultorio\obj\Debug\apConsultorio.FrmPacientes.resources
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\apConsultorio\obj\Debug\apConsultorio.FrmPrincipal.resources
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\apConsultorio\obj\Debug\apConsultorio.Properties.Resources.resources
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\apConsultorio\obj\Debug\apConsultorio.csproj.GenerateResource.cache
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\apConsultorio\obj\Debug\apConsultorio.csproj.CoreCompileInputs.cache
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\apConsultorio\obj\Debug\apConsultorio.exe
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\apConsultorio\obj\Debug\apConsultorio.pdb
+P:\59-DesenvSistemas\2oSemestre\TI212 - Bancos de Dados II\exemplos\apConsultorio\obj\Debug\apConsultorio.FrmConsultas.resources
+C:\Users\u22533\Desktop\Prof consultorio\apConsultorio\bin\Debug\apConsultorio.exe.config
+C:\Users\u22533\Desktop\Prof consultorio\apConsultorio\bin\Debug\apConsultorio.exe
+C:\Users\u22533\Desktop\Prof consultorio\apConsultorio\bin\Debug\apConsultorio.pdb
+C:\Users\u22533\Desktop\Prof consultorio\apConsultorio\obj\Debug\apConsultorio.csproj.AssemblyReference.cache
+C:\Users\u22533\Desktop\Prof consultorio\apConsultorio\obj\Debug\apConsultorio.csproj.SuggestedBindingRedirects.cache
+C:\Users\u22533\Desktop\Prof consultorio\apConsultorio\obj\Debug\apConsultorio.FrmConsultas.resources
+C:\Users\u22533\Desktop\Prof consultorio\apConsultorio\obj\Debug\apConsultorio.FrmMedico.resources
+C:\Users\u22533\Desktop\Prof consultorio\apConsultorio\obj\Debug\apConsultorio.FrmPacientes.resources
+C:\Users\u22533\Desktop\Prof consultorio\apConsultorio\obj\Debug\apConsultorio.FrmPrincipal.resources
+C:\Users\u22533\Desktop\Prof consultorio\apConsultorio\obj\Debug\apConsultorio.Properties.Resources.resources
+C:\Users\u22533\Desktop\Prof consultorio\apConsultorio\obj\Debug\apConsultorio.csproj.GenerateResource.cache
+C:\Users\u22533\Desktop\Prof consultorio\apConsultorio\obj\Debug\apConsultorio.csproj.CoreCompileInputs.cache
+C:\Users\u22533\Desktop\Prof consultorio\apConsultorio\obj\Debug\apConsultorio.exe
+C:\Users\u22533\Desktop\Prof consultorio\apConsultorio\obj\Debug\apConsultorio.pdb
